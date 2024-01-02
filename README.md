@@ -10,8 +10,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SinjoySaha)
 
 ## Table of Contents
-- 455. Assign Cookies [Python](/python/455_Assign_Cookies.py)
-- 2610. Convert an Array Into a 2D Array With Conditions [Python](/python/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py)
+- 455 Assign Cookies [Python](/python/455_Assign_Cookies.py)
+- 2610 Convert an Array Into a 2D Array With Conditions [Python](/python/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py)
 - 
 
 ## Contact
