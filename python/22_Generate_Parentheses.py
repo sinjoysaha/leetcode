@@ -1,4 +1,5 @@
 # Solution 1: Using recursion - stack memory during recursive function call
+# Time Complexity - O(n^2)
 
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
@@ -21,6 +22,8 @@ class Solution:
         return res
     
 # Solution 2: Using stack of dicts to keep track of no. of open and close brackets
+# Time Complexity - O(n^2)
+
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         stack = [{'f':True, 'o':1, 'c':0, 's':'('}]
