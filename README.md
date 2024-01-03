@@ -12,7 +12,7 @@
 ## Table of Contents
 - 455 Assign Cookies [Python](/python/455_Assign_Cookies.py)
 - 2610 Convert an Array Into a 2D Array With Conditions [Python](/python/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py)
-- 
+- 2125	Number of Laser Beams in a Bank [Python](/python/2125_Number_of_Laser_Beams_in_a_Bank.py)
 
 ## Contact
 
