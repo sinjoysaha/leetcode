@@ -14,6 +14,7 @@
 - 300 Longest Increasing Subsequence [Python](/python/300_Longest_Increasing_Subsequence.py)
 - 446 Arithmetic Slices II - Subsequence [Python](/python/446_Arithmetic_Slices_II_Subsequence.py)
 - 455 Assign Cookies [Python](/python/455_Assign_Cookies.py)
+- 872 Leaf Similar Trees [Python](/python/872_Leaf_Similar_Trees.py)
 - 938 Range Sum of BST [Python](/python/938_Range_Sum_of_BST.py)
 - 1235 Maximum Profit in Job Scheduling [Python](/python/1235_Maximum_Profit_in_Job_Scheduling.py)
 - 2125	Number of Laser Beams in a Bank [Python](/python/2125_Number_of_Laser_Beams_in_a_Bank.py)
