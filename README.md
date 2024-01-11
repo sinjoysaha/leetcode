@@ -16,6 +16,7 @@
 - 455 Assign Cookies [Python](/python/455_Assign_Cookies.py)
 - 872 Leaf Similar Trees [Python](/python/872_Leaf_Similar_Trees.py)
 - 938 Range Sum of BST [Python](/python/938_Range_Sum_of_BST.py)
+- 1026 Maximum Difference Between Node and Ancestor [Python](/python/1026_Maximum_Difference_Between_Node_and_Ancestor.py)
 - 1235 Maximum Profit in Job Scheduling [Python](/python/1235_Maximum_Profit_in_Job_Scheduling.py)
 - 2125	Number of Laser Beams in a Bank [Python](/python/2125_Number_of_Laser_Beams_in_a_Bank.py)
 - 2385 Amount of Time for Binary Tree to Be Infected [Python](/python/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected)
