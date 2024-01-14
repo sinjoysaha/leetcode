@@ -19,6 +19,7 @@
 - 1026 Maximum Difference Between Node and Ancestor [Python](/python/1026_Maximum_Difference_Between_Node_and_Ancestor.py)
 - 1235 Maximum Profit in Job Scheduling [Python](/python/1235_Maximum_Profit_in_Job_Scheduling.py)
 - 1347 Minimum Number of Steps to Make Two Strings Anagram [Python](/python/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.py)
+- 1657 Determine if Two Strings Are Close [Python](/python/1657_Determine_if_Two_Strings_Are_Close)
 - 1704 Determine if String Halves Are Alike [Python](/python/1704_Determine_if_String_Halves_Are_Alike.py)
 - 2125	Number of Laser Beams in a Bank [Python](/python/2125_Number_of_Laser_Beams_in_a_Bank.py)
 - 2385 Amount of Time for Binary Tree to Be Infected [Python](/python/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected)
