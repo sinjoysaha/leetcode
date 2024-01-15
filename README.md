@@ -22,6 +22,7 @@
 - 1657 Determine if Two Strings Are Close [Python](/python/1657_Determine_if_Two_Strings_Are_Close)
 - 1704 Determine if String Halves Are Alike [Python](/python/1704_Determine_if_String_Halves_Are_Alike.py)
 - 2125	Number of Laser Beams in a Bank [Python](/python/2125_Number_of_Laser_Beams_in_a_Bank.py)
+- 2225 Find Players With Zero or One Losses [Python](/python/2225_Find_Players_With_Zero_or_One_Losses.py)
 - 2385 Amount of Time for Binary Tree to Be Infected [Python](/python/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected)
 - 2610 Convert an Array Into a 2D Array With Conditions [Python](/python/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py)
 - 2870	Minimum Number of Operations to Make Array Empty [Python](/python/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py)
