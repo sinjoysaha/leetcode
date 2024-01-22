@@ -12,11 +12,12 @@
 ## Table of Contents
 - 22 Generate Parentheses [Python](/python/22_Generate_Parentheses.py)
 - 70 Climbing Stairs [Python](/python/70_Climbing_Stairs.py)
-- 198. House Robber [Python](/python/198_House_Robber.py)
+- 198 House Robber [Python](/python/198_House_Robber.py)
 - 300 Longest Increasing Subsequence [Python](/python/300_Longest_Increasing_Subsequence.py)
 - 380 Insert Delete GetRandom O(1) [Python](/python/380_Insert_Delete_GetRandom_O_1.py)
 - 446 Arithmetic Slices II - Subsequence [Python](/python/446_Arithmetic_Slices_II_Subsequence.py)
 - 455 Assign Cookies [Python](/python/455_Assign_Cookies.py)
+- 645 Set Mismatch [Python](/python/645_Set_Mismatch.py)
 - 872 Leaf Similar Trees [Python](/python/872_Leaf_Similar_Trees.py)
 - 907 Sum of Subarray Minimums [Python](/python/907_Sum_of_Subarray_Minimums.py)
 - 931 Minimum Falling Path Sum [Python](/python/931_Minimum_Falling_Path_Sum.py)
