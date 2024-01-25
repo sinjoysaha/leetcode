@@ -23,6 +23,7 @@
 - 931 Minimum Falling Path Sum [Python](/python/931_Minimum_Falling_Path_Sum.py)
 - 938 Range Sum of BST [Python](/python/938_Range_Sum_of_BST.py)
 - 1026 Maximum Difference Between Node and Ancestor [Python](/python/1026_Maximum_Difference_Between_Node_and_Ancestor.py)
+- 1143 Longest Common Subsequence [Python](/python/1143_Longest_Common_Subsequence.py)
 - 1207 Unique Number of Occurrences [Python](/python/1207_Unique_Number_of_Occurrences.py)
 - 1235 Maximum Profit in Job Scheduling [Python](/python/1235_Maximum_Profit_in_Job_Scheduling.py)
 - 1239 Maximum Length of a Concatenated String with Unique Characters [Python](/python/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.py)
