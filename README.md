@@ -28,7 +28,7 @@
 - 1235 Maximum Profit in Job Scheduling [Python](/python/1235_Maximum_Profit_in_Job_Scheduling.py)
 - 1239 Maximum Length of a Concatenated String with Unique Characters [Python](/python/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.py)
 - 1347 Minimum Number of Steps to Make Two Strings Anagram [Python](/python/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.py)
-- 1457. Pseudo-Palindromic Paths in a Binary Tree [Python](/python/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.py)
+- 1457 Pseudo-Palindromic Paths in a Binary Tree [Python](/python/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.py)
 - 1657 Determine if Two Strings Are Close [Python](/python/1657_Determine_if_Two_Strings_Are_Close)
 - 1704 Determine if String Halves Are Alike [Python](/python/1704_Determine_if_String_Halves_Are_Alike.py)
 - 2125	Number of Laser Beams in a Bank [Python](/python/2125_Number_of_Laser_Beams_in_a_Bank.py)
